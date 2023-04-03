@@ -9,7 +9,6 @@ import java.util.List;
 import jakarta.inject.Named;
 import jakarta.enterprise.context.RequestScoped;
 
-
 /**
  *
  * @author noumr
